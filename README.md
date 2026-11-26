@@ -4,7 +4,7 @@
 
 This repository contains a complete **Exploratory Data Analysis (EDA)** and automated insights workflow on the built-in **`diamonds`** dataset from **Seaborn** (53,940 rows and 10 columns), created in Google Colab.
 
-## 📌 Project Overview
+## 📌 Project Overview 
 The goal of this analysis is to explore the structure, quality, distributions, relationships, and key price drivers of diamonds using Python data science libraries.
 
 ### Key Steps Covered
