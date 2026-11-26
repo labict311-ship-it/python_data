@@ -1,0 +1,22 @@
+================ DIAMONDS DATASET INSIGHTS ================
+
+1. Data Overview & Quality:
+   - Total rows: 53,940, Columns: 10, Missing values: 0
+   - Duplicate rows: 146
+   - Invalid dimension rows (x, y, or z == 0): 20 (removed for clean analysis)
+
+2. Price & Carat Insights:
+   - Price range: $326 to $18,823 | Median: $2,401 | Mean: $3,931
+   - Price skewness: 1.62 (strongly right-skewed due to high-end diamonds)
+   - Carat range: 0.2 to 5.01 | Median carat: 0.7
+
+3. Top Drivers Correlated with Price:
+   - carat: correlation = 0.92
+   - volume: correlation = 0.90
+   - x: correlation = 0.89
+
+4. Category Insights:
+   - Most common cut: Ideal (40.0% of dataset)
+   - Highest median price by cut: Fair ($3,282)
+   - Highest median price-per-carat clarity: SI2
+   - Highest median price-per-carat color: H
